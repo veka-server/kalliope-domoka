@@ -1,0 +1,11 @@
+---
+  name: "domoka"
+  type: "neuron"
+  author: "veka-server"
+
+  kalliope_supported_version:
+    - 0.7
+    - 0.6
+
+  tags:
+    - "domotique"
