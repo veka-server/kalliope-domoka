@@ -44,3 +44,15 @@ Interface for my DIY domotique
           action_unknown:
             - "Je n'ai pas compris votre commande"
 ```
+
+## Installation
+```bash
+kalliope install --git-url https://github.com/veka-server/kalliope-domoka.git
+```
+
+## Desinstallation
+```bash
+kalliope uninstall --neuron-name domoka
+```
+
+Pour plus d'info : https://kalliope-project.github.io/kalliope/brain/community_modules/
